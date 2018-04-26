@@ -1,4 +1,4 @@
-wiri-widayanti
-==============
+extjs4-mvc-json-crud-php-mysql
+==============================
 
-sebagian aplikasi ini bukan milik saya atau tidak saya buat sendiri
+ExtJS 4 MVC Example - CRUD Grid with JSON, Ajax, PHP and MySQL
